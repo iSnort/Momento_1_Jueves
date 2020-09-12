@@ -1,3 +1,7 @@
+body {
+    background-color: #000000 !important;
+}
+
 .bgNav {
     background-color: #0E0C0C;
 }
@@ -51,4 +55,12 @@
 
 .sizeIcon {
     font-size: 20px;
+}
+
+.yutuVideo {
+    margin: 30px 50px;
+}
+
+p{
+    color: white;
 }
