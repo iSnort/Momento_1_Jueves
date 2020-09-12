@@ -1,0 +1,54 @@
+.bgNav {
+    background-color: #0E0C0C;
+}
+
+.Logo-Yutu {
+    color: red;
+}
+
+.Letra-Logo-Yutu {
+    color: white;
+    font-weight: bold;
+    margin-right: 230px;
+}
+
+.search {
+    width:  500px;
+    margin-right: 10px;
+    background-color: #211E1E;
+    margin-top: 4.2px;
+}
+
+.searchIcon {
+    color: #2A2626;
+    margin-top: 10px;
+}
+
+.uploadIcon {
+    margin-left: 200px;
+    color: white;
+    margin-top: 10px;
+}
+
+.gripIcon {
+    margin-left: 30px;
+    color: white;
+    margin-top: 6px;
+}
+
+.bellIcon {
+    margin-left: 30px;
+    color: white;
+    margin-top: 6px;
+}
+
+.accountIcon {
+    margin-left: 30px;
+    color: white;
+    margin-top: 2px;
+    font-size: 24px;
+}
+
+.sizeIcon {
+    font-size: 20px;
+}
